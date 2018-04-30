@@ -1,0 +1,100 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: lightblue;
+}
+
+body header{
+	margin: 0;
+	display: inline;
+}
+
+body nav ul{
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+body nav ul li{
+	display: inline;
+}
+
+body nav{
+	background: none;
+	margin:0;
+	padding:0;
+	display: inline;
+}
+
+.recentProducts{
+	list-style-type: none; 
+	margin: .5% 30%;
+
+}
+
+.recentProductImage{
+	margin:1% 30%;
+	height: 50%;
+	width: 40%;
+}
+
+.topNav{
+	background: #7a4230;
+	color: white;
+	display: inline;
+	list-style-type: none;
+	padding: 1% 1%;
+	margin: 0 0.5%;
+	border-radius: 5px;
+	box-shadow: 2px 2px #888888;
+}
+body header img{
+	height: 15%;
+	width: 30%;
+	padding: 0;
+	margin: 0;
+	display: inline;
+}
+
+.bottomNav{
+	padding: 1% 5%;
+	margin: 0.5% 2%;
+	background: black;
+	color:white;
+	list-style-type: none;
+	display: inline;
+}
+
+.collage{
+	height: 50%;
+	width: 75%;
+	padding: 1% 12.5%;
+	margin:1.5%;
+	background: lightblue;
+}
+.content{
+	color: white;
+	background: black;
+	margin: 0 0 0 12.5%;
+	padding: 1% 10% 1% 0.5%;
+	list-style-type: none;
+}
+h3{
+	margin: 2% 0 1% 40%;
+}
+h2{
+	margin: 2% 0 2% 20%;
+}
+p{
+	margin: 2% 10%;
+}	
+
+.authorImage{
+	height: 50%;
+	width: 50%;
+	display: block;
+	margin: 10%;
+    margin-left: auto;
+    margin-right: auto
+
+}
